@@ -9,3 +9,7 @@ https://github.com/MicrosoftDocs/ml-basics
 ```bash
 https://github.com/MicrosoftDocs/ml-basics/tree/master/challenges
 ```
+You can learn how to create the Machine Learning from this website:
+```bash
+https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/
+```

@@ -1,4 +1,4 @@
-## Real Estate Regression Challenge
+## Machine Learning Basics
 
 The data set used in this project is taken from this repository:
 ```bash

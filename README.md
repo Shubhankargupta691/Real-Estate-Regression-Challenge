@@ -5,7 +5,7 @@ The data set used in this project is taken from this repository:
 https://github.com/MicrosoftDocs/ml-basics
 ```
 
-## Real-Estate-Regression-Challenge:
+## Real-Estate-Regression-Challenge github repository:
 ```bash
 https://github.com/MicrosoftDocs/ml-basics/tree/master/challenges
 ```
